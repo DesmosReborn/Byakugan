@@ -1,0 +1,37 @@
+#################################
+# Unreal Engine Generated Files #
+#################################
+/Byakugan/[Bb]uild
+/Byakugan/[Bb]uilds
+/Byakugan/Binaries
+/Byakugan/DerivedDataCache
+/Byakugan/Saved
+/Byakugan/Intermediate
+
+#################################
+# Visual Studio Generated Files #
+#################################
+# Cache Directory
+.vs
+# User Specific Files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# CPP Cache Files
+*.VC.db
+*.opendb
+*.opensdf
+*.sdf
+# Solution Files
+*.sln
+# VSCode Cache Directory
+.vscode
+# VSCode History Files
+**/.history
+
+#################################
+# Miscellaneous Generated Files #
+#################################
+# ADD AS NEED BE
